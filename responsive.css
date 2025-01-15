@@ -1,0 +1,4 @@
+/* Responsive design rules */
+@media (max-width: 768px) {
+  body { font-size: 14px; }
+}
